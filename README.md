@@ -177,5 +177,6 @@ disappears in favour of a "You've reached the end" footer.
 flutter analyze --no-pub        # → No issues found!
 flutter build apk --debug       # → Built build/app/outputs/flutter-apk/app-debug.apk
 ```
-#   F l u t t e r _ P l a t f o r m _ C o m m o n s  
- 
+#   F l u t t e r _ P l a t f o r m _ C o m m o n s 
+ 
+ 
